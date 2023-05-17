@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "title": "harry potter",
+        "price": 100,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_722711-MLA42906730908_072020-O.jpg"
+    },
+    {
+        "id": 1,
+        "title": "el señor de los anillos",
+        "price": 200,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_958858-MLA51652282301_092022-V.jpg"
+    },
+    {
+        "id": 2,
+        "title": "game of thrones",
+        "price": 300,
+        "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1638100569-51hx5Mq4HML._SL500_.jpg"
+    },
+    {
+        "id": 3,
+        "title": "star wars",
+        "price": 400,
+        "image":"https://www.tematika.com/media/catalog/Ilhsa/Imagenes/689898.jpg"
+    },
+    {
+        "id": 4,
+        "title": "marvel",
+        "price": 500,
+        "image": "https://images.cdn1.buscalibre.com/fit-in/360x360/af/0e/af0e3f2444d05f58df5681212b888dda.jpg"
+    }
+]

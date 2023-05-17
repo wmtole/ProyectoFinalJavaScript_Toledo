@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./css/styles.css">
+
+  <title>Document</title>
+</head>
+
+<body>
+  <header>
+    <h1>Bienvenido</h1>
+    <div>
+      <button class="c-cart-button js-open-cart">
+        <img src="./img/shopping-cart.png" alt=""><span class="js-cart-counter">0</span>
+      </button>
+    </div>
+  </header>
+  <main>
+    <section class="s-book-list">
+      <h2>Libros en la lista:</h2>
+      <div class="s-book-list__list js-books">
+
+      </div>
+    </section>
+    <section class="s-cart js-cart-drawer">
+      <h2>Carrito</h2>
+      <button class="s-cart__close js-close-cart">x</button>
+      <ul class="js-cart">
+
+      </ul>
+      <form action="#" class="js-payment">
+        <p>Total: $<span class="js-cart-total">0</span></p>
+        <button>Comprar</button>
+      </form>
+    </section>
+  </main>
+  <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  <script src="./js/index.js"></script>
+</body>
+
+</html>
